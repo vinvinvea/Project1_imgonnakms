@@ -9,6 +9,6 @@ PhysicsMaterial2D:
   m_Name: Kula
   serializedVersion: 2
   friction: 0.4
-  bounciness: 0
-  m_FrictionCombine: 1
+  bounciness: 1
+  m_FrictionCombine: 0
   m_BounceCombine: 4
